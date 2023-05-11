@@ -1,1 +1,2 @@
 # LavoroGruppo
+Gerry Scotti
